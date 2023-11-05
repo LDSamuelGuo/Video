@@ -1,7 +1,7 @@
 module.exports = {
     apps: [{
-        name: "frontend",
-        script: "nodemon app.js",
+        name: "ass2",
+        script: "app.js",
         
     }]
 }
